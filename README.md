@@ -21,3 +21,11 @@ The Art Operation in The 21st Century by A.G. (c) 2014
 * It is made possible by virtue of the fact that all of the steps involved have been abstracted and are being expressed in simple rules, what Stephen Wolfram might call "Simple Programs" (See: [A New Kind of Science] (http://en.wikipedia.org/wiki/A_New_Kind_of_Science#Simple_programs)).
 * Above, we started - BEFORE STARTING! - with the Data Model underlying your business systems. Here we want to argue that all techniques, methodologies, etc., involved IN your Art Operation should ideally ALL BE PLATFORM-AGNOSTIC.
 * More about Platform-agnosticism in a moment...
+
+ANTILOG_11May14a
+* How to do the Impossible:
+ * What Has Helped Me In Matters of Great Complexity?
+ * Thinking it through all the way. Stop and think. Slow down. One decision at a time + sit and wait.
+ * Bursts & Heavy-Tails, Strategic Bursts and Doctrinal-Tactical Long-Tails. Know your genosociogram, follow Moral Temperatures, Moral Climate.
+ * Slow & Constant Unveiling.
+ * Move slowly forward on all fronts, be consistent, stick to your guns, a slow unveiling; then quick sporadic cluster-bursts; stick to the theory when you don't or can't know; trust your predictions in a few key areas; believe nothing instantly; know your material; be tireless; take risks with Face behavior; be self-reliant, autonomous, resourceful, innovative.
