@@ -1,2 +1,3 @@
 INVENTORY
 =========
+* SUPPLY & DEMAND
