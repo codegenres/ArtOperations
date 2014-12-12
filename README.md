@@ -29,3 +29,7 @@ ANTILOG_11May14a
  * Bursts & Heavy-Tails, Strategic Bursts and Doctrinal-Tactical Long-Tails. Know your genosociogram, follow Moral Temperatures, Moral Climate.
  * Slow & Constant Unveiling.
  * Move slowly forward on all fronts, be consistent, stick to your guns, a slow unveiling; then quick sporadic cluster-bursts; stick to the theory when you don't or can't know; trust your predictions in a few key areas; believe nothing instantly; know your material; be tireless; take risks with Face behavior; be self-reliant, autonomous, resourceful, innovative.
+
+ANTILOG_12Dec14a
+* On efficient messaging: All Signals are Costly. Minimize "Costs of Pinging".
+* Art Operations => Art-Operations-in-a-Box, have your own ArtOps straight out of the box. Everything you need to know to start your own professional Art Operation. Includes manual.
