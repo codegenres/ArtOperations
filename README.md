@@ -33,3 +33,4 @@ ANTILOG_11May14a
 ANTILOG_12Dec14a
 * On efficient messaging: All Signals are Costly. Minimize "Costs of Pinging".
 * Art Operations => Art-Operations-in-a-Box, have your own ArtOps straight out of the box. Everything you need to know to start your own professional Art Operation. Includes manual.
+* ORIENTATION => Get oriented, straight out of the box. List of materials to get going immediately.
